@@ -54,6 +54,6 @@ A fun and interactive application where a robot generates jokes to brighten your
 For questions or suggestions, feel free to reach out at:
 
 - Email: guruprasad6200@gmail.com
-- GitHub: guruprasadgp22
+- GitHub: @guruprasadgp22
 
 ----
