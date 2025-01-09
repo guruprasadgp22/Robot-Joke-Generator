@@ -20,12 +20,6 @@ A fun and interactive application where a robot generates jokes to brighten your
 
 ----
 
-## Screenshot
-
-![Robot Joke Generator Screenshot]()
-
-----
-
 ## Installation
 
 1. Clone this repository:
