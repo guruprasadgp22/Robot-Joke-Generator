@@ -35,40 +35,17 @@ A fun and interactive application where a robot generates jokes to brighten your
   git clone https://github.com/yourusername/robot-joke-generator.git
 
    ```
-2. Navigate to the project folder:
+2. Open the project folder and locate the index.html file.
 
-  ```bash
-
-    cd robot-joke-generator
-  ```
-
-3. Install dependencies:
-
-  ```bash
-
-    npm install
-
-  ```
-
-4. Start the development server:
-
-  ```bash
-
-    npm start
-
-  ```
-
-----
-
-Open the app in your browser at http://localhost:3000.
+3. Open index.html in any web browser to run the application.
 
 ----
 
 ## Technologies Used
 
-- Frontend: HTML, CSS, JavaScript
-- Framework/Library: React.js
-- Backend (optional): Node.js for additional joke sources (if applicable)
+- HTML: Structure of the web page.
+- CSS: Styling for the user interface.
+- JavaScript: Logic for generating and displaying jokes.
 
 ----
 
