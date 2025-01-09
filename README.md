@@ -22,7 +22,7 @@ A fun and interactive application where a robot generates jokes to brighten your
 
 ## Screenshot
 
-![Robot Joke Generator Screenshot](/Screenshot 2025-01-09 121607.png)
+![Robot Joke Generator Screenshot]()
 
 ----
 
